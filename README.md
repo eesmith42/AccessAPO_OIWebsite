@@ -13,9 +13,7 @@ This document was written by Emma Smith, the Spring 2021 Web Chair for APO-OI. I
 The contacts at ITS that will be helpful in the transition from Web Chair to Web Chair or general questions about the process:
 <br>
 - John Eismeier at jpeismeier@wpi.edu (main contact)
-<br>
 - Carien van Gelder at cwvangelder@wpi.edu
-<br>
 - Mark Taylor at mtaylor@wpi.edu
 <hr>
 ## How To Access The Website
