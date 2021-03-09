@@ -22,7 +22,7 @@ Prior to being able to access the APO-OI website, you need to download [PuTTy] (
 
 Following the installation of PuTTy, open up the program. Your window should look something like this (possibly without the linux.wpi.edu in the "Saved Sessions" box).
 
-<p align="center"><img src="/Users/eesmi/OneDrive/Desktop/AccessAPO_OIWebsite/AccessWebsite/PuTTyWindowInitial.jpg></p>
+image
 
 Enter **linux.wpi.edu** into the box under "Host Name (or IP address)".
 
