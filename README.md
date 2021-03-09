@@ -5,17 +5,17 @@
 The APO-OI website uses WPI's user server to host a public-facing website containing information about the organization and Merit Badge University information. Merit Badge University (MBU) is an _ service done by APO-OI where members teach scouts badges. The MBU website is used for registration for the event, as well as information about the event.
 
 This README is meant to aid the Web Chair & MBU Chair in accessing the website for updates and making the link live for MBU registration. **This README is a PRIVATE document, as there is a key to access the website that only the Web Chair & MBU Chair may have access too. This is in accordance with what Emma Smith, the Spring 2021 Web Chair, learned from ITS.**
-<hr>
-## Contact Information
+
+## Contact Information 
 
 This document was written by Emma Smith, the Spring 2021 Web Chair for APO-OI. If you have questions, contact her at: eesmith@wpi.edu or eesmith42@outlook.com. 
 
 The contacts at ITS that will be helpful in the transition from Web Chair to Web Chair or general questions about the process:
-<br>
+
 - John Eismeier at jpeismeier@wpi.edu (main contact)
 - Carien van Gelder at cwvangelder@wpi.edu
 - Mark Taylor at mtaylor@wpi.edu
-<hr>
+
 ## How To Access The Website
 
 Prior to being able to access the APO-OI website, you need to download [PuTTy] (https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html).
@@ -63,7 +63,7 @@ Your terminal should now look like this:
 image
 
 Now, the next step is updating the website!
-<hr>
+
 ## Installing Updates
 
 You've officially gotten into the website, woo woo! Now you'll run through how to install the updates to the website.
