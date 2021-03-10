@@ -22,7 +22,7 @@ Prior to being able to access the APO-OI website, you need to download [PuTTy] (
 
 Following the installation of PuTTy, open up the program. Your window should look something like this (possibly without the linux.wpi.edu in the "Saved Sessions" box).
 
-image
+![PuTTy Initial Window](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/PuTTyWindowInitial.jpg)
 
 Enter **linux.wpi.edu** into the box under "Host Name (or IP address)".
 
@@ -32,21 +32,21 @@ The "Connection type:" should be **ssh**.
 
 "Close window on exit:" should be **Only on clean exit**.
 
-image
+![PuTTy Inputs](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/PuTTyWindowInputs.jpg)
 
-You will come across a window that looks like this:
+Click "Open". You will come across a window that looks like this:
 
-image
+![PuTTy Login Window] (https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/PuTTyLoginWindow.jpg?
 
-Log in using your WPI credentials (i.e. your username and password you use to access your email/bannerweb/etc).
+Log in using your WPI credentials (i.e. your username and password you use to access your email/bannerweb/etc). Enter your username, and your window should look like this:
 
-image
+![PuTTy Username](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/PuTTyPasswordWindow.jpg)
 
 After you type in your username, you will have to type in your password. The password will not show up on the screen, but type it in as you usually would. 
 
 Your window should now look like this:
 
-image
+![PuTTy Password](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/PuTTyAfterPass.jpg)
 
 Next, you will access the APO-OI website using the ssh key.
 
@@ -54,13 +54,13 @@ In the terminal, type **ssh -i ~/.ssh/apo(tab) apo@userweb**. Where it says "(ta
 
 The terminal should now look like this:
 
-image
+![PuTTY SSH Key](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/PuTTySSHKey.jpg)
 
 Type in **ls** in order to look at what is currently in the APO-OI website on this end. 
 
 Your terminal should now look like this:
 
-image
+![PuTTy APO Website Content](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/PuTTyWebsiteContents.jpg)
 
 Now, the next step is updating the website!
 
