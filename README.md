@@ -36,7 +36,7 @@ The "Connection type:" should be **ssh**.
 
 Click "Open". You will come across a window that looks like this:
 
-![PuTTY Login Window] (https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/PuTTyLoginWindow.jpg)
+![PuTTY Login Window](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/PuTTyLoginWindow.jpg)
 
 Log in using your WPI credentials (i.e. your username and password you use to access your email/bannerweb/etc). Enter your username, and your window should look like this:
 
