@@ -1,5 +1,11 @@
 <h1 align="center">Accessing the APO-OI Website for Updates</h1>
 
+Updates to make to this document:
+- key will change every year or so --> contact its
+- move branch thing to top of the page
+- when the website updates, it might not look updated on your laptop, just clear cache and then reload it
+- add anchor tags to emails (example in chat saved from 3/10 meeting)
+
 ## Description
 
 The APO-OI website uses WPI's user server to host a public-facing website containing information about the organization and Merit Badge University information. Merit Badge University (MBU) is an annual service done by APO-OI where members teach scouts badges. The MBU website is used for registration for the event, as well as information about the event.
