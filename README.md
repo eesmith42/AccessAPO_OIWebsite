@@ -1,9 +1,5 @@
 <h1 align="center">Accessing the APO-OI Website for Updates</h1>
 
-Updates to make to this document:
-- key will change every year or so --> contact its
-- move branch thing to top of the page
-- when the website updates, it might not look updated on your laptop, just clear cache and then reload it
 - add anchor tags to emails (example in chat saved from 3/10 meeting)
 
 ## Description
@@ -12,7 +8,11 @@ The APO-OI website uses WPI's user server to host a public-facing website contai
 
 This README is meant to aid the Web Chair & MBU Chair in accessing the website for updates and making the link live for MBU registration. **This README is a PRIVATE document, as there is a key to access the website that only the Web Chair & MBU Chair may have access too. This is in accordance with what Emma Smith, the Spring 2021 Web Chair, was told by ITS.**
 
+**Note: The SSH Key for accessing the website will change about every year, so you will need to contact ITS in order to obtain that key. Contacting ITS can be done either by emailing one of the people listed below or by putting in a ticket via the WPI Hub.**
+
 ## Contact Information 
+
+<a href=“mailto:apo-fellowship@wpi.edu>apo-fellowship@wpi.edu</a>
 
 This document was written by Emma Smith, the Spring 2021 Web Chair for APO-OI. If you have questions, contact her at: eesmith@wpi.edu or eesmith42@outlook.com. 
 
@@ -24,9 +24,9 @@ The contacts at ITS that will be helpful in the transition from Web Chair to Web
 
 ## How To Access The Website
 
-Prior to being able to access the APO-OI website, you need to download [PuTTY] (https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html).
+Prior to being able to access the APO-OI website, you need to download [PuTTY] (https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) and make sure that the master branch on the APO Website GitHub repository is fully updated (i.e. merge the branch created for the update to the master branch). **The master branch should be fully updated before you start this process; it must be fully updated for any updates to the website to go through.**
 
-Following the installation of PuTTY, open up the program. Your window should look something like this (possibly without the linux.wpi.edu in the "Saved Sessions" box):
+Following the installation of PuTTY & updating of the master branch, open up the program. Your window should look something like this (possibly without the linux.wpi.edu in the "Saved Sessions" box):
 
 ![PuTTY Initial Window](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/PuTTyWindowInitial.jpg)
 
@@ -72,10 +72,6 @@ Now, the next step is updating the website!
 
 You've officially gotten into the website, woo woo! Now you'll run through how to install the updates to the website.
 
-First thing, before you even get into PuTTy to update the website, **the master branch on the APO Website GitHub Repository must be fully updated with what you'd like to install**. Make sure the branch you created with the updates is merged with the master branch. 
-
-After the branches are merged and everything is all set on GitHub, you can move to PuTTy to update the website. Follow the steps above to access the website!
-
 Your window should look like this:
 
 image
@@ -101,5 +97,7 @@ image
 Check the website (https://users.wpi.edu/~apo/index.html) to make sure your updates have been pushed!
 
 ## Troubleshooting
+
+When you update the website, it may only look like it is updated on WPI's end (i.e. the PuTTY window) and not on your end (i.e. when you open it in a browser on your computer). This isn't a problem with the process. **All you need to do is clear your cache for it to update on your end.**
 
 This is a new process for updating the APO-OI website, so if you are having any issues with this process, please contact the contacts at ITS listed below the **Contact Information** section of this README.
