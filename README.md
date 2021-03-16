@@ -1,7 +1,5 @@
 <h1 align="center">Accessing the APO-OI Website for Updates</h1>
 
-- add anchor tags to emails (example in chat saved from 3/10 meeting)
-
 ## Description
 
 The APO-OI website uses WPI's user server to host a public-facing website containing information about the organization and Merit Badge University information. Merit Badge University (MBU) is an annual service done by APO-OI where members teach scouts badges. The MBU website is used for registration for the event, as well as information about the event.
@@ -12,15 +10,13 @@ This README is meant to aid the Web Chair & MBU Chair in accessing the website f
 
 ## Contact Information 
 
-<a href=“mailto:apo-fellowship@wpi.edu>apo-fellowship@wpi.edu</a>
-
-This document was written by Emma Smith, the Spring 2021 Web Chair for APO-OI. If you have questions, contact her at: eesmith@wpi.edu or eesmith42@outlook.com. 
+This document was written by Emma Smith, the Spring 2021 Web Chair for APO-OI. If you have questions, contact her at: <a href=“mailto:eesmith@wpi.edu>eesmith@wpi.edu</a> or <a href=“mailto:eesmith42@outlook.com>eesmith42@outlook.com</a>. 
 
 The contacts at ITS that will be helpful in the transition from Web Chair to Web Chair or general questions about the process:
 
-- John Eismeier at jpeismeier@wpi.edu (main contact)
-- Carien van Gelder at cwvangelder@wpi.edu
-- Mark Taylor at mtaylor@wpi.edu
+- John Eismeier at <a href=“mailto:jpeismeier@wpi.edu>jpeismeier@wpi.edu</a> (main contact)
+- Carien van Gelder at <a href=“mailto:cwvangelder@wpi.edu>cwvangelder@wpi.edu</a>
+- Mark Taylor at <a href=“mailto:mtaylor@wpi.edu>mtaylor@wpi.edu</a>
 
 ## How To Access The Website
 
