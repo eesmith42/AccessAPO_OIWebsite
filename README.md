@@ -70,23 +70,23 @@ You've officially gotten into the website, woo woo! Now you'll run through how t
 
 Your window should look like this:
 
-image
+![PuTTY Initial Install Window](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/Initial%20Window.jpg) 
 
 In the window, type **Cd t/A(tab)**. Just like before, where it says "(tab)", press tab to auto-complete the line of code. The code should be "Cd t/APO_Website/".
 
 Your window should now look like this:
 
-image
+![PuTTY cd command](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/cd%20command.jpg)
 
 Next, you will type **Git pull** into the window, which will make the window look like this:
 
-image
+![PuTTY gitpull command](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/gitpull.jpg)
 
 Finally, you will type **./i(tab)**. The "(tab)" is where you press tab on your keyboard to auto-complete the line of code. The code should be "./install.sh". 
 
 Your window should look like this:
 
-image
+![PuTTY Install Script](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/install%20script.jpg)
 
 ## Final Steps
 
