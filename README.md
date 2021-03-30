@@ -72,13 +72,13 @@ Your window should look like this:
 
 ![PuTTY Initial Install Window](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/Initial%20Window.jpg) 
 
-In the window, type **Cd t/A(tab)**. Just like before, where it says "(tab)", press tab to auto-complete the line of code. The code should be "Cd t/APO_Website/".
+In the window, type **cd t/A(tab)**. Just like before, where it says "(tab)", press tab to auto-complete the line of code. The code should be "cd t/APO_Website/".
 
 Your window should now look like this:
 
 ![PuTTY cd command](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/cd%20command.jpg)
 
-Next, you will type **Git pull** into the window, which will make the window look like this:
+Next, you will type **gitpull** into the window, which will make the window look like this:
 
 ![PuTTY gitpull command](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/gitpull.jpg)
 
