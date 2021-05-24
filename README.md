@@ -4,7 +4,7 @@
 
 The APO-OI website uses WPI's user server to host a public-facing website containing information about the organization and Merit Badge University information. Merit Badge University (MBU) is an annual service done by APO-OI where members teach scouts badges. The MBU website is used for registration for the event, as well as information about the event.
 
-This README is meant to aid the Web Chair & MBU Chair in accessing the website for updates and making the link live for MBU registration. **This README is a PRIVATE document, as there is a key to access the website that only the Web Chair & MBU Chair may have access too. This is in accordance with what Emma Smith, the Spring 2021 Web Chair, was told by ITS.**
+This README is meant to aid the Web Chair & MBU Chair in accessing the website for updates and making the link live for MBU registration. **This README is a PRIVATE document, as there is a key to access the website that only the Web Chair & MBU Chair(s) may have access too. This is in accordance with what Emma Smith, the Spring 2021 Web Chair, was told by ITS.**
 
 **Note: The SSH Key for accessing the website will change about every year, so you will need to contact ITS in order to obtain that key. Contacting ITS can be done either by emailing one of the people listed below or by putting in a ticket via the WPI Hub.**
 
@@ -50,7 +50,7 @@ After you type in your username, you will have to type in your password. The pas
 
 Next, you will access the APO-OI website using the ssh key.
 
-In the terminal, type **insert ssh key here**. Where it says "(tab)", press the tab key on your keyboard. It should auto-complete the key, which will make your life easier. 
+In the terminal, type **ssh -i ~/.ssh/apo(tab) apo@userweb**. Where it says "(tab)", press the tab key on your keyboard. It should auto-complete the key, which will make your life easier. The code should be "ssh -i ~/.ssh/apo-id_ecdsa apo@userweb".
 
 The window should now look like this:
 
