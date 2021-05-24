@@ -6,7 +6,7 @@ The APO-OI website uses WPI's user server to host a public-facing website contai
 
 This README is meant to aid the Web Chair & MBU Chair in accessing the website for updates and making the link live for MBU registration. **This README is a PRIVATE document, as there is a key to access the website that only the Web Chair & MBU Chair(s) may have access too. This is in accordance with what Emma Smith, the Spring 2021 Web Chair, was told by ITS.**
 
-**Note: The SSH Key for accessing the website will change about every year, so you will need to contact ITS in order to obtain that key. Contacting ITS can be done either by emailing one of the people listed below or by putting in a ticket via the WPI Hub.**
+**Note: The SSH Key for accessing the website will change about every year, so you will need to contact ITS in order to obtain that key. Contacting ITS can be done either by emailing one of the people listed below or by putting in a ticket via the WPI Hub. Putting in a ticket via the WPI Hub would be best, just in case any of the contacts below are unavailable.**
 
 ## Contact Information 
 
