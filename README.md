@@ -78,7 +78,7 @@ Your window should now look like this:
 
 ![PuTTY cd command](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/cd%20command.jpg)
 
-Next, you will type **gitpull** into the window, which will make the window look like this:
+Next, you will type **git pull** into the window, which will make the window look like this:
 
 ![PuTTY gitpull command](https://github.com/eesmith42/AccessAPO_OIWebsite/blob/main/gitpull.jpg)
 
